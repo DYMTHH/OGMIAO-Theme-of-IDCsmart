@@ -134,8 +134,13 @@
 
 - **@Huan-Starvm**
 作者：Huan-Starvm  
-项目：[idcsmart-ogmiao-clientarea](https://github.com/Huan-Starvm/idcsmart-ogmiao-clientarea)  
-主要修改了 `clientarea.tpl` 文件
+项目：https://github.com/Huan-Starvm/idcsmart-ogmiao-clientarea) 
+主要修改了 `clientarea` 文件
+
+- **@AnkiLove**
+作者：AnkiLove 
+项目：https://github.com/AnkiLove/ANKI-Theme-of-IDCsmart
+主要修改了 `web` 文件（使其看起来更粉嫩）
 
 > 🎉 **欢迎二次开发**：我们非常支持开发者对主题进行优化和改进！如果你有新的想法：  
 > - 🔄 可以自由进行二次开发  
